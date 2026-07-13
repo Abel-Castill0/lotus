@@ -1,0 +1,17 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /checkout
+Disallow: /perfil
+Disallow: /wishlist
+Disallow: /carrito
+Disallow: /api/*
+
+# Host
+Host: https://lotusmangastore.com
+
+# Sitemaps
+Sitemap: https://lotusmangastore.com/sitemap.xml
