@@ -50,3 +50,11 @@ npm run dev                        # http://localhost:3000
 ## Despliegue
 
 Ver [DEPLOY.md](./DEPLOY.md) para instrucciones detalladas.
+
+---
+
+### Desarrollado por
+
+**Abel Castillo**
+
+🌐 [Portafolio profesional](https://portafolio-henna-mu.vercel.app/)
